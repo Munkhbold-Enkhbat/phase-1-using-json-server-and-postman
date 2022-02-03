@@ -6,11 +6,6 @@
       "id": 1
     },
     {
-      "id": 2,
-      "title": "Second Article",
-      "content": "This is also an example."
-    },
-    {
       "title": "Third Article",
       "content": "Another example!",
       "id": 3
